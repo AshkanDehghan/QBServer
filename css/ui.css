@@ -1,8 +1,5 @@
-.sidebar {
+.docsify-header-logo img{
 
-  background-color: #36393f
-}
-
-.content {
-    background-color: #2f3136
+  height: 40px;
+  margin-right: 10px;
 }
