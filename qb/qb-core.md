@@ -1,4 +1,4 @@
-# add To Items shared/items.lus
+# add To Items shared/items.lua  لیست آیتمهای لباس
 torso   = { name = 'torso',  label = 'Pirahan',  weight = 100, type = 'item', image = 'torso.png',  unique = true , useable = true, shouldClose = true, description = 'Item Pirahan' },
 tshirt  = { name = 'tshirt',   label = 'T-Shirt', weight = 100, type = 'item', image = 'tshirt.png',   unique = true, useable = true, shouldClose = true, description = 'Item Tshirt' },
 arms    = { name = 'arms',     label = 'Dastkesh',    weight = 100, type = 'item', image = 'arms.png',     unique = true, useable = true, shouldClose = true, description = 'Item Dastkesh' },
