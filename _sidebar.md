@@ -1,2 +1,1 @@
-- [Read Me](README)
-- [Example Second Page](second-page)
+- [qb-core](qb/qb-core)
