@@ -1,1 +1,1 @@
-- [qb-core](qb/qb-core.mdt)
+- [qb-core](qb/qb-core)
