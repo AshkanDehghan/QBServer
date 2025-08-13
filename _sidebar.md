@@ -1,1 +1,1 @@
-- [qb-core](qb/qb-core)
+- [qb-core](qb/qb-core.md)
