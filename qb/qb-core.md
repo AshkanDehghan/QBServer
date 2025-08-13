@@ -1,1 +1,15 @@
-# test
+# add To Items shared/items.lus
+torso   = { name = 'torso',  label = 'Pirahan',  weight = 100, type = 'item', image = 'torso.png',  unique = true , useable = true, shouldClose = true, description = 'Item Pirahan' },
+tshirt  = { name = 'tshirt',   label = 'T-Shirt', weight = 100, type = 'item', image = 'tshirt.png',   unique = true, useable = true, shouldClose = true, description = 'Item Tshirt' },
+arms    = { name = 'arms',     label = 'Dastkesh',    weight = 100, type = 'item', image = 'arms.png',     unique = true, useable = true, shouldClose = true, description = 'Item Dastkesh' },
+jeans   = { name = 'jeans',    label = 'Shalvar',   weight = 100, type = 'item', image = 'jeans.png',    unique = true, useable = true, shouldClose = true, description = 'Item Shalvar' },
+shoes   = { name = 'shoes',    label = 'Kafsh',   weight = 100, type = 'item', image = 'shoes.png',    unique = true, useable = true, shouldClose = true, description = 'Item Kafsh'   },
+bag     = { name = 'bag',      label = 'kif',     weight = 100, type = 'item', image = 'bag.png',      unique = true, useable = true, shouldClose = true, description = 'Item kif'    },
+chain   = { name = 'chain',    label = 'Zanjir',   weight = 100, type = 'item', image = 'chain.png',    unique = true, useable = true, shouldClose = true, description = 'Item Gardanband'},
+mask    = { name = 'mask',     label = 'Mask',    weight = 100, type = 'item', image = 'mask.png',     unique = true, useable = true, shouldClose = true, description = 'Item Mask'  },
+helmet  = { name = 'helmet',   label = 'Kolah',  weight = 100, type = 'item', image = 'helmet.png',   unique = true, useable = true, shouldClose = true, description = 'Item Kolah'    },
+ears    = { name = 'ears',     label = 'Ghosshvareh',    weight = 100, type = 'item', image = 'ears.png',     unique = true, useable = true, shouldClose = true, description = 'Item Gooshvareh'},
+watches = { name = 'watches',  label = 'Saat', weight = 100, type = 'item', image = 'watches.png',  unique = true, useable = true, shouldClose = true, description = 'Item saat'  },
+glasses = { name = 'glasses',  label = 'Eynak', weight = 100, type = 'item', image = 'glasses.png',  unique = true, useable = true, shouldClose = true, description = 'Item Eynak'   },
+bracelet= { name = 'bracelet', label = 'Kamarband',weight = 100, type = 'item', image = 'bracelet.png', unique = true, useable = true, shouldClose = true, description = 'Item Kamarband' },
+emsbag  = { name = 'emsbag', label = 'emsbag', weight = 150, type = 'item', image = 'emsbag.png', unique = false, useable = true, shouldClose = true, description = 'kif medic' },
